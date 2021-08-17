@@ -102,7 +102,7 @@ Une fois toutes les TXs rangées dans des catégories, l'outil va essayer de rap
 
 ## Configuration
 
-Vous pouvez utiliser le fichier de configuration `config.exemple.yaml`, copiez le en `config.yaml` puis mofidiez le a votre guise. Il sera utilisé pour vos options par défaut (c'est à dire que si vous spécifiez une autre valeur d'une option dans la ligne de commande, elle sera prioritaire sur les valeurs du fichier de configuration).
+Vous pouvez utiliser le fichier de configuration `config.exemple.yml`, copiez le en `config.yml` puis mofidiez le a votre guise. Il sera utilisé pour vos options par défaut (c'est à dire que si vous spécifiez une autre valeur d'une option dans la ligne de commande, elle sera prioritaire sur les valeurs du fichier de configuration).
 
 ### Options de base
 
