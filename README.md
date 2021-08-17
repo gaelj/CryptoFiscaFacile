@@ -54,6 +54,14 @@ Tous les montants dans l'outil sont des chiffres décimaux avec précision arbit
 
 Une fois toutes les transactions récupérées de toutes les "Sources" que vous avez fournies à l'outil, il va essayer de catégoriser ces TXs.
 
+### Exécution
+
+Lancer la commande:
+
+```bash
+$ go run main.go
+```
+
 #### Catégories de TXs relatives à une "Source"
 
 - "Dépôts" `Deposits` : ce sont des TXs qui ont un ou plusieurs `To` mais n'ont pas de `From` et possiblement des `Fee`.
